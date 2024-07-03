@@ -28,7 +28,7 @@ One concern with this model that was brought up was overfitting. The model's R<s
 # Videos
 Below are the list of videos from each team member. They discuss her/his experiences with the project, what they've learned, and any other information they feel is useful.
 
-* [Olha Yakushenko](www.youtube.com/yourvideohere)
+* [Olha Yakushenko](https://drive.google.com/file/d/1-PzOU4lHJd-Wjm-ZK_Ls2uGcOWcrct2I/view)
 * [Divya Krishnamoorthy](https://drive.google.com/file/d/1zZJxrFBK3t4OKpOFBzNRjxPcFCLE4Rsw/view)
 * [Sabarevasan Subbrahmanian](https://drive.google.com/file/d/14WHRPk1uDRkEEpejAcpqlltoWoEBfHDy/view)
 * [Stuart Macgregor](https://drive.google.com/file/d/1dT2tmzdpY61Bdogkp5C4yJcjKwIfkEtL/view?usp=sharing)
