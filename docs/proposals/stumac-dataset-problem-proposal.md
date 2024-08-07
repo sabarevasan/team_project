@@ -31,6 +31,10 @@ _That said_: If anyone wants to work on the weight issue, then I'd probably sugg
 It would give us a bit more work, but with a better story<sup>*</sup> and being probably closer to real world data. That said, I'm terrible at balancing data.
 
 
+**EDIT** 2024/08/06: @olgayakushenko also found a [similar data set](https://www.kaggle.com/datasets/muhammadehsan000/credit-card-transaction-records-dataset), but with better feature/column naming:
+ 
+The tradeoff is that this dataset is also unbalanced, and would require the same balancing work as the second (and older) dataset mentioned above.
+
 In short, yes, I'm suggesting one of two datasets. They're mostly the same.
 
 # Answering the guiding questions
